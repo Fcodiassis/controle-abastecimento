@@ -1,0 +1,11 @@
+﻿[pgcrtReport]
+Coordinates=169,78,73,33
+Visible=False
+
+[]
+Coordinates=10,124,68,33
+Visible=False
+
+[DMReport.qryReport]
+Coordinates=430,30,115,195
+
